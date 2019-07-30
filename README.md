@@ -3,7 +3,11 @@
 A Flutter package allows you to easily integrate Scale widget.
 
 ## Preview
-<img src="https://github.com/pinkeshdarji/flutter_notebook_page/blob/master/preview/preview.png" height="700" width="380" alt="Screenshot"/>
+
+ | Vertical scale | Horizontal scale | Scale in action
+|--|--|--|
+<img src="https://github.com/AubergineDevelopers/flutter_scale/blob/master/preview/vertical.gif" height="600" width="350" alt="Screenshot"/> | <img src="https://github.com/AubergineDevelopers/flutter_scale/blob/master/preview/vertical.gif" height="600" width="350" alt="Screenshot"/> | <img src="https://github.com/AubergineDevelopers/flutter_scale/blob/master/preview/height_weight_sclae.gif" height="600" width="350" alt="Screenshot"/>
+
 
 ## Installing
 
@@ -29,8 +33,8 @@ class _Example1State extends State<Example1> {
   Widget build(BuildContext context) {
     return Scaffold(
         body: VerticalScale(
-      maxValue: 13,
-      scaleController: ScrollController(),
+            maxValue: 13,
+            scaleController: ScrollController(),
     ));
   }
 }
@@ -44,8 +48,8 @@ class _Example1State extends State<Example1> {
   Widget build(BuildContext context) {
     return Scaffold(
         body: HorizontalScale(
-      maxValue: 25,
-      scaleController: ScrollController(),
+            maxValue: 25,
+            scaleController: ScrollController(),
     ));
   }
 }
