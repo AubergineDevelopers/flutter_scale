@@ -1,8 +1,10 @@
 name: flutter_scale
-description: Scale widget  for flutter applications
+description: A Flutter package allows you to easily integrate Scale widget.
 version: 0.0.1
-author:
-homepage:
+author: Aubergine Solutions <devs@auberginesolutions.com>
+homepage: https://github.com/AubergineDevelopers/flutter_scale
+issue_tracker : https://github.com/AubergineDevelopers/flutter_scale/issues
+
 
 environment:
   sdk: ">=2.1.0 <3.0.0"
