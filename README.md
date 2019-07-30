@@ -3,10 +3,9 @@
 A Flutter package allows you to easily integrate Scale widget.
 
 ## Preview
-
- | Vertical scale | Horizontal scale | Scale in action
-|--|--|--|
-<img src="https://github.com/AubergineDevelopers/flutter_scale/blob/master/preview/vertical.gif" height="500" width="350" alt="Screenshot"/> | <img src="https://github.com/AubergineDevelopers/flutter_scale/blob/master/preview/horizontal.gif" height="500" width="350" alt="Screenshot"/> | <img src="https://github.com/AubergineDevelopers/flutter_scale/blob/master/preview/height_weight_sclae.gif" height="500" width="350" alt="Screenshot"/>
+![The example app running in Android](https://github.com/AubergineDevelopers/flutter_scale/blob/master/preview/vertical.gif)
+![The example app running in Android](https://github.com/AubergineDevelopers/flutter_scale/blob/master/preview/horizontal.gif)
+![The example app running in Android](https://github.com/AubergineDevelopers/flutter_scale/blob/master/preview/height_weight_sclae.gif)
 
 
 ## Installing
@@ -17,7 +16,7 @@ A Flutter package allows you to easily integrate Scale widget.
 
 ```dart
 dependencies:
-    flutter_scale: 0.0.1
+    flutter_scale: 0.1.2
 ```
 
 2.  Import the package
