@@ -6,7 +6,7 @@ A Flutter package allows you to easily integrate Scale widget.
 
  | Vertical scale | Horizontal scale | Scale in action
 |--|--|--|
-<img src="https://github.com/AubergineDevelopers/flutter_scale/blob/master/preview/vertical.gif" height="600" width="350" alt="Screenshot"/> | <img src="https://github.com/AubergineDevelopers/flutter_scale/blob/master/preview/vertical.gif" height="600" width="350" alt="Screenshot"/> | <img src="https://github.com/AubergineDevelopers/flutter_scale/blob/master/preview/height_weight_sclae.gif" height="600" width="350" alt="Screenshot"/>
+<img src="https://github.com/AubergineDevelopers/flutter_scale/blob/master/preview/vertical.gif" height="500" width="350" alt="Screenshot"/> | <img src="https://github.com/AubergineDevelopers/flutter_scale/blob/master/preview/horizontal.gif" height="500" width="350" alt="Screenshot"/> | <img src="https://github.com/AubergineDevelopers/flutter_scale/blob/master/preview/height_weight_sclae.gif" height="500" width="350" alt="Screenshot"/>
 
 
 ## Installing
